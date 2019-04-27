@@ -2,8 +2,8 @@
 title: BY Blog
 SEOTitle: 陈子龙的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
+email: fredmoon@163.com
+description: "We don't talk anymore."
 keyword: "BY, BY Blog, 子龙的博客, 陈子龙, 陈子龙, iOS, Apple, iPhone"
 url: "http://itfredmoon.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     
 zhihu_username:     
-github_username:    fredmoon
+github_username:    itfredmoon
 facebook_username:  
 jianshu_username:   
 #twitter_username:  
@@ -65,8 +65,8 @@ gitalk:
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: fredmoon.github.io    #仓库名称
-  owner: fredmoon    #github用户名
-  admin: fredmoon
+  owner: itfredmoon    #github用户名
+  admin: itfredmoon
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
