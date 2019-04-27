@@ -99,13 +99,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        #title: "WY",
-        #href: "http://zhengwuyang.com"
+        title: "李老八",
+        href: "https://weibo.com/u/2150835921"
     },{
-       # title: "简书·BY",
+        #title: "陈冠希",
        # href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
-      #  title: "Apple",
+      #  title: "",
       #  href: "https://apple.com"
     },{
       #  title: "Apple Developer",
