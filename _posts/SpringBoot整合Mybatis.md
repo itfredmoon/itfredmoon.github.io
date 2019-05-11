@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      SpringBoot整合MyBatis
+subtitle:    "\"按照网上博客很顺利完成整合，留个笔记\""
+date:       2019-05-12
+author:     BY Chen
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags:
+    - SpringBoot MyBatis
+---
+
+> “🙉🙉🙉 ”
 # SpringBoot整合Mybatis
 
 ## 参考博客链接：<https://blog.csdn.net/Winter_chen001/article/details/77249029>
